@@ -1,6 +1,6 @@
 1. Создайте Google Table.
 2. Добавьте в него 5 колонок по такому порядку.
-![img.png](img.png)<br>
+[Screenshot_3](https://github.com/MaDn1me/Mailing/assets/120927545/b5eb443c-f9c7-4d60-af06-af90734aeaff)<br>
 В столбце "Поступил" обязательно писать только "Да" или "Нет"!!<br>
    2.1 Если не знаете как подключить к таблице JSON файл, нажмите [тут](https://www.geeksforgeeks.org/how-to-automate-google-sheets-with-python/)
 3. Создайте 2 текстовых документа: "Accepted.txt", "Declined.txt".<br>
